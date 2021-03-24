@@ -1,4 +1,4 @@
-# Progetto_Reti-Logiche_Giacomini_2020
+# Prova Finale di Reti Logiche - a.a. 2019-2020
 Scopo del progetto è quello di implementare un componente hardware descritto in VHDL in grado di risolvere un problema che consiste nel decodificare un indirizzo a partire da un insieme di working-zone. L'utilità di questo metodo può essere approfondita leggendo l'articolo originale:  [E. Musoll, T. Lang and J. Cortadella, "Working-zone encoding for reducing the energy in microprocessor address buses," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 6, no. 4, pp. 568-572, Dec. 1998.](https://ieeexplore.ieee.org/abstract/document/736129?casa_token=J8ltMoMG2WQAAAAA:GFnsfTBQhZY8IlAZtM3jDNuCrixBVRiANbrbyG1-LlqTuzeL0OurT67-3cvO0KXuptiQM4obtw).
 
 ## Definizione del Problema
